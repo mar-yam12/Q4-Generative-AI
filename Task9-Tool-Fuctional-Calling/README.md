@@ -114,4 +114,4 @@ Combined in agent frameworks, they enable truly intelligent systems that both **
 
 ---
 
-*✍️ Author: [Your Name]*
+*✍️ Author: Maryam Shahid*

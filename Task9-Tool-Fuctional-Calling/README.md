@@ -1,4 +1,4 @@
-# 🧠 Tool Calling vs. Function Calling: Unlocking Agentic AI
+# 🧠 Tool Calling | Function Calling
 
 > The future of AI isn’t just about generating answers—it’s about **taking intelligent actions**.
 
